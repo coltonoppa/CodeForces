@@ -58,7 +58,7 @@ public class Main {
             }
             sb.reverse();
         }
-                
+               
         System.out.println(ans + "\n" + sb.toString());
     }
 }
